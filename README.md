@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, My name is João Guilherme dos Santos
+
+Description: Im a software developer. At the moment im working in projects using vanilla javascript, next steps: study react and some backend language, maybe i use JavaScript 🤔 
+Pronouns: Anyone 😄.
 
 <!--
 **JoaoGuilherme2909/JoaoGuilherme2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
