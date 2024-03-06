@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is João Guilherme dos Santos
 
 Description: Im a software developer. At the moment im working in projects using vanilla javascript, next steps: study react and some backend language, maybe i use JavaScript 🤔 
+
 Pronouns: Anyone 😄.
 
 <!--
