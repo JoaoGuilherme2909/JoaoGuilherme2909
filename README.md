@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is João Guilherme dos Santos
 
-Description: Im a software developer. At the moment im working in projects using vanilla javascript and C#, next steps: study react and Asp.net Core⚡. 
+Description: Im a software developer. At the moment im studying Java, but i also know javascript, typescript, react and go. 
 
 Pronouns: Anyone 😄.
 
