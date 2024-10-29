@@ -20,5 +20,6 @@ I'm a full stack developer at WCOGEO, always eager to learn new technologies
   - Cloud solutions
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilherme2909)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoGuilherme2909)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilherme2909)](https://github.com/anuraghazra/github-readme-stats)
