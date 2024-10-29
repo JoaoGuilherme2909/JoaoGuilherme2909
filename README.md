@@ -9,6 +9,10 @@ I'm a full stack developer at WCOGEO, always eager to learn new technologies
   - **Databases**: SQL Server, MongoDB, Redis, PostgreSQL
   - **Others**: Docker, Git, Prisma ORM, TypeORM, Entity Framework, Spring Data JPA
 
+### 📚 I'm currently learning
+  - Fastify
+  - Knex
+
 ### 🌱 Tecnologies I want to learn
   - NextJS
   - React Native
