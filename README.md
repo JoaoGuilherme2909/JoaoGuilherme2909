@@ -1,7 +1,22 @@
-# Hi there 👋
+# Hi there 👋, I'm João Guilherme dos Santos
 
-I'm João Guilherme dos Santos, a full stack software developer. i'm currently finishing my first college degree, working with geospatial software solutions in Node.js and React, studying Java and Python in my spare time. Besides i love linux and other open source technologies and i have interest in learning kotlin and go someday.
+- 🔥 Full stack web developer.
+- 🔭 I’m currently working at WCOGEO
+- 💬 Ask me about Node.JS, Nest, Linux
 
 
+## My Skills
+### Langs 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python)
+### Frontend
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,vite,tailwind,zustand)
+### Backend
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi)
+### Database
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redis,postgresql)
+### Libs
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=prisma,typeorm,drizzle,vitest)
+### Devops
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,linux,jenkins,git,nginx)
 
 
