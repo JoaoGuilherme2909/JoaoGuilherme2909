@@ -5,7 +5,7 @@ Currently working as a full stack software developer creating geospatial solucio
 [![My Skills](https://skillicons.dev/icons?i=cs,python,typescript,nodejs)](https://skillicons.dev)
 
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ### Editors
 [![My Skills](https://skillicons.dev/icons?i=rider,visualstudio,vscode)](https://skillicons.dev)
