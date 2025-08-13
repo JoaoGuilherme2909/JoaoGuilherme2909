@@ -1,27 +1,29 @@
 # Hi there 👋, I'm João Guilherme dos Santos
-I'm a full stack software developer creating geospatial solucions at WCOGEO.
+I'm a full stack software developer creating geospatial solucions at WCOGEO. 
 
 ### Langs  
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,go)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,go,bash&titles=true)
 
-### Runtime
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
+### Runtimes
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)
 
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=linux,arch)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch&titles=true)
 
 ### Editors
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim&titles=true)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi,express,nest)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,express,nest,fiber&titles=true)
 
 ### Libs
-[![My Skills](https://skillicons.dev/icons?i=react,prisma,vitest,tailwind)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,prisma,vitest,tailwind,typeorm,drizzle&titles=true)
 
 ### DBs
-[![My Skills](https://skillicons.dev/icons?i=redis,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,postgres,mysql)](https://skillicons.dev)
+
+### Tool's
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite&titles=true)
 
 ### Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=nginx,docker,git,jenkins)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nginx,docker,git,jenkins,aws&titles=true)
