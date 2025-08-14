@@ -4,9 +4,6 @@ I'm a full stack software developer creating geospatial solucions at WCOGEO.
 ### Langs  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,typescript,cs&titles=true)
 
-### Runtimes
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)
-
 ### OS
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch&titles=true)
 
