@@ -2,7 +2,7 @@
 I'm a full stack software developer creating geospatial solucions at WCOGEO. 
 
 ### Langs  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,typescript,cs&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,cs&titles=true)
 
 ### OS
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch&titles=true)
