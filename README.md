@@ -2,7 +2,7 @@
 I'm a full stack software developer creating geospatial solucions at WCOGEO. 
 
 ### Langs  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,go,bash&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,cs,bash&titles=true)
 
 ### Runtimes
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)
@@ -14,7 +14,7 @@ I'm a full stack software developer creating geospatial solucions at WCOGEO.
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim&titles=true)
 
 ### Frameworks
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,express,nest,fiber&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,express,nest,fiber,dotnet&titles=true)
 
 ### Libs
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,prisma,vitest,tailwind,typeorm,drizzle&titles=true)
