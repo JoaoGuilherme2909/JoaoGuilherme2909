@@ -1,18 +1,16 @@
 # Hi there 👋
 
-I'm **João Guilherme**, a passionate **Backend Developer** currently working at WCOGEO.  
-My main stack is **Node.js** and **React**.  
+I'm **João Guilherme**, a passionate **Fullstack Developer** currently working at WCOGEO.  
+My main stack is **Go** and **React**, i also know python.  
 
 💻 **What I do**  
-- Backend development  
-- Creating scalable services with Node.js  
-- Occasionally working with React for frontend integrations  
+- Fullstack development
+- Create API's, CLI's and services in Go
 
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
 - Cloud technologies and DevOps practices  
-- Linux, open-source software, and system internals  
-- Exploring new programming languages and paradigms  
+- Linux, open-source software, and system internals
 
 ⚡ **A bit more about me**  
 - Enthusiast of Linux and backend engineering  
