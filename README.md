@@ -1,11 +1,11 @@
 # Hi there 👋
 
 I'm **João Guilherme**, a passionate **Fullstack Developer** currently working at WCOGEO.  
-My main stack is **Go** and **React**, i also know python.  
+<!--My main stack is **Go** and **React**, i also know python.-->  
 
 💻 **What I do**  
 - Fullstack development
-- Create API's, CLI's and services in Go
+- Create API's, CLI's and services <!--in Go-->
 
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
@@ -18,7 +18,7 @@ My main stack is **Go** and **React**, i also know python.
 - Strong interest in writing clean, maintainable, and scalable code    
 
 🚀 **My skills**<br><br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,ts,react,python,postgresql,docker,linux,go&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,ts,react,python,postgresql,docker,linux,go,cs,dotnet,sqlserver&perline=4)
 
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
