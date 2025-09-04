@@ -5,7 +5,7 @@ I'm **João Guilherme**, a passionate **Full Stack Developer** currently working
 💻 **What I do**  
 - Full stack development
 - Create Frontends e web apps in react
-- Create API's, CLI's and services in go
+- Create API's, CLI's and services
 
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
@@ -15,8 +15,7 @@ I'm **João Guilherme**, a passionate **Full Stack Developer** currently working
 ⚡ **A bit more about me**  
 - Enthusiast of Linux and backend engineering  
 - Always learning and experimenting with new tech  
-- Strong interest in writing clean, maintainable, and scalable code    
-- My favorite language is **Go**
+- Strong interest in writing clean, maintainable, and scalable code
 
 🚀 **My skills**<br><br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,ts,react,python,postgresql,docker,linux,go,java,spring&perline=4)
