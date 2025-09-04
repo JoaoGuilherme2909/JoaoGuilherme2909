@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm **João Guilherme**, a passionate **Backend Developer** currently working at WCOGEO.  
-  
+I'm **João Guilherme**, a passionate **Backend Developer** currently working at WCOGEO. 
 
 💻 **What I do**  
 - Backend development
@@ -16,6 +15,7 @@ I'm **João Guilherme**, a passionate **Backend Developer** currently working at
 - Enthusiast of Linux and backend engineering  
 - Always learning and experimenting with new tech  
 - Strong interest in writing clean, maintainable, and scalable code    
+- My favorite language is **Go**
 
 🚀 **My skills**<br><br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,ts,nodejs,python,postgresql,docker,linux,go,cs,dotnet,java,spring&perline=4)
