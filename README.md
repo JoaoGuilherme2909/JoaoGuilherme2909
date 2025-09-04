@@ -17,8 +17,8 @@ I'm **João Guilherme**, a passionate **Full Stack Developer** currently working
 - Always learning and experimenting with new tech  
 - Strong interest in writing clean, maintainable, and scalable code
 
-🚀 **My skills**<br><br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,ts,react,python,postgresql,docker,linux,go,java,spring&perline=4)
+<!--🚀 **My skills**<br><br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,ts,react,python,postgresql,docker,linux,go,java,spring&perline=4)-->
 
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
