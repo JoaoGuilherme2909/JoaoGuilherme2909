@@ -1,9 +1,10 @@
 # Hi there 👋
 
-I'm **João Guilherme**, a passionate **Backend Developer** currently working at WCOGEO. 
+I'm **João Guilherme**, a passionate **Fullstack Developer** currently working at WCOGEO. 
 
 💻 **What I do**  
-- Backend development
+- Fullstack development
+- Create web applications
 - Create API's, CLI's and services
 
 🌱 **What I’m interested in**  
