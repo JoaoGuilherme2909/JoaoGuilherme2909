@@ -4,7 +4,7 @@ I'm **João Guilherme**, a passionate **Backend Developer** currently working at
 
 💻 **What I do**  
 - Backend development
-- Create API's, CLI's and services in **go** and **Java**
+- Create API's, CLI's and services
 
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
@@ -15,9 +15,6 @@ I'm **João Guilherme**, a passionate **Backend Developer** currently working at
 - Enthusiast of Linux and backend engineering  
 - Always learning and experimenting with new tech  
 - Strong interest in writing clean, maintainable, and scalable code
-
-🚀 **My skills**<br><br> 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,postgresql,docker,linux,go,java,spring&perline=3)
 
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
