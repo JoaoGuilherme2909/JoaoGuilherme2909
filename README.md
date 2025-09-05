@@ -16,6 +16,8 @@ I'm **João Guilherme**, a passionate **Backend Developer** currently working at
 - Always learning and experimenting with new tech  
 - Strong interest in writing clean, maintainable, and scalable code
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nodejs,nest,express,python,go,postgres,linux,docker,aws,jenkins,nginx&perline=4)
+
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
 </a>
