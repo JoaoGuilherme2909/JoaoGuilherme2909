@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **João Guilherme**, a passionate **Developer** currently working at WCOGEO. 
+I'm **João Guilherme**, a passionate Developer currently working at WCOGEO. 
 
 💻 **What I do**  
 - Backend development
