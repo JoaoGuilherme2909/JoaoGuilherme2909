@@ -9,7 +9,7 @@ I'm **João Guilherme**, a passionate **Backend Developer** currently working at
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
 - Cloud technologies and DevOps practices
-- Strong interest in low level programming and things
+- Strong interest in low level programming and things related
 - Linux, open-source software, and system internals
 
 ⚡ **A bit more about me**  
