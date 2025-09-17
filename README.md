@@ -22,7 +22,7 @@ I'm **João Guilherme**, a passionate **FullStack Developer** currently working 
 - I have a strong interest in low level
   
 🚀 **My Skills**<br><br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,html,css,js,ts,react,nodejs,nest,go,postgres,linux,docker,git,arch,nvim&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,html,css,js,ts,react,nodejs,nest,go,postgres,linux,docker,git,arch,neovim&perline=4)
 
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
