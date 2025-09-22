@@ -4,7 +4,7 @@ I'm **João Guilherme**, a passionate **Developer**.
 
 💻 **What I do**  
 - Backend development
-- Frontend
+- Frontend development
 - Create API's, CLI's and services
 
 🌱 **What I’m interested in**  
