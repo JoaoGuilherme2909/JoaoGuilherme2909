@@ -4,7 +4,7 @@ I'm **João Guilherme**, a passionate **Developer**.
 
 💻 **What I do**  
 - I work creating geospatials solutions using Nodejs/React and sometimes python scripts and API's
-- Create API's, CLI's and services
+- Create API's and web apps
 
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
