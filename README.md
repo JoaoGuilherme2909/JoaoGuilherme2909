@@ -18,7 +18,7 @@ I'm **João Guilherme**, a passionate **Developer**.
 
 🚀 **My skills**<br>
 <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts,nodejs,nest,java,spring,python,fastapi,go,c,postgres,redis,docker,arch,neovim&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts,nodejs,nest,python,fastapi,go,c,postgres,redis,docker,arch,neovim&perline=4)
   
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
