@@ -9,7 +9,7 @@ I'm **João Guilherme**, a passionate **Developer**.
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
 - Cloud technologies and DevOps practices
-- Learning NextJS and Astro
+- Learn more about low-level and the Rust programming language 🦀
 - Study and understand more about AI and your capabilities
 
 ⚡ **A bit more about me**  
