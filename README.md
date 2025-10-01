@@ -10,8 +10,6 @@ I'm **João Guilherme**, a passionate **Developer**.
 - Backend architectures and API design  
 - Cloud technologies and DevOps practices
 - Learn NextJS
-- IoT, embedded systems and low level programming
-- The Rust programming language 🦀
 - Study and understand more about AI and your capabilities
 
 ⚡ **A bit more about me**  
