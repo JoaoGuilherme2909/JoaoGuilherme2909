@@ -11,7 +11,7 @@ I'm **João Guilherme**, a passionate **Backend Developer**.
 - Cloud and DevOps
 - Learn C/C++
 - Learn The Rust Programming Language 🦀
-- Learn some functional programming
+- Learn some functional programming language
 - Study and understand more about AI and your capabilities
 
 ⚡ **A bit more about me**  
