@@ -11,11 +11,14 @@ I'm **João Guilherme**, a passionate **Developer**.
 - Backend architectures and API design  
 - Cloud and DevOps
 - Learn everything about GO
+- Learning more about low level stuff and The Rust Programming Language 🦀
 - Learn NextJS
 - Study and understand more about AI and your capabilities
 
 ⚡ **A bit more about me**  
 - Always learning and experimenting with new tech
+- Studying GO and loving it from the start ♥️
+- I'm currently working as a full stack developer, coding in nodejs and react
 - Strong interest in writing clean, maintainable, and scalable code
 
 🚀 **Current stack**<br>
