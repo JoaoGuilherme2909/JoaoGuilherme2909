@@ -11,7 +11,7 @@ I'm **João Guilherme**, a passionate **Backend Developer**.
 - Cloud and DevOps
 - Learn C/C++
 - Learn The Rust Programming Language 🦀
-- Learn some functional programming language
+- Learn Elixir
 - Study and understand more about AI and your capabilities
 
 ⚡ **A bit more about me**  
@@ -21,7 +21,7 @@ I'm **João Guilherme**, a passionate **Backend Developer**.
 
 🚀 **Current stack**<br>
 <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,go,docker,postgres,arch,neovim&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nodejs,nest,python,go,docker,postgres,arch,neovim&perline=4)
   
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
