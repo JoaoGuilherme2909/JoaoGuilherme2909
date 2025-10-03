@@ -1,22 +1,21 @@
 # Hi there 👋
 
-I'm **João Guilherme**, a passionate **Backend Developer**. 
+I'm **João Guilherme**, a passionate **Developer**. 
 
 💻 **What I do**  
 - I work creating geospatials solutions in WCOGEO
 - Create API's, CLI's and Services
+- Create frontends
 
 🌱 **What I’m interested in**  
 - Backend architectures and API design  
 - Cloud and DevOps
-- Learn C/C++
-- Learn The Rust Programming Language 🦀
-- Learn Elixir
+- Learn everything about GO
+- Learn NextJS
 - Study and understand more about AI and your capabilities
 
 ⚡ **A bit more about me**  
 - Always learning and experimenting with new tech
-- I like to know more about low level stuff   
 - Strong interest in writing clean, maintainable, and scalable code
 
 🚀 **Current stack**<br>
