@@ -5,6 +5,7 @@ I'm **João Guilherme**, a passionate **Backend Developer**.
 **About me**
 - 💼 I work creating geospatials solutions to WCOGEO.
 - 💻 I'm currently studyng GO and loving it from the start❤️
+- 🌱 I'm interested in learn more about low level, programming in C and Zig
 - ⭐ My favourite topics is backend development, software architecture and linux
 
 🚀 **Current stack**<br>
