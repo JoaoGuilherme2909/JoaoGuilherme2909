@@ -13,7 +13,7 @@ I'm **João Guilherme**, a passionate **Backend Developer**.
 
 🌱 **Future stack**<br>
 <br>
-![other](https://go-skill-icons.vercel.app/api/icons?i=zig,c,cpp,rust,bash)
+![other](https://go-skill-icons.vercel.app/api/icons?i=c,rust,bash)
   
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
