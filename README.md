@@ -9,7 +9,7 @@ I'm **João Guilherme**, a passionate **Backend Developer**.
 
 🚀 **Skills**<br>
 <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,go,ts,react,nodejs,express,nest,docker,linux,postgres,redis,bash&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,go,js,docker,linux,postgres,redis,bash&perline=4)
   
 <a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
