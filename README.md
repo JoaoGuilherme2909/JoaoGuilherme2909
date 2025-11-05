@@ -4,7 +4,7 @@ I'm **João Guilherme**, a passionate **Developer**.
 
 **About me**
 - 💼 I work creating geospatials solutions to WCOGEO.
-- 💻 I'm interested in systems programming
+- 💻 I'm interested in systems programming and low level languages like zig and rust
 - ⭐ My favourite topics is backend development, software architecture and linux
 
 🚀 **Skills**<br>
