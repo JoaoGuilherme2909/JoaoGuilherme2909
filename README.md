@@ -1,16 +1,25 @@
-# Hi there 👋
+```go
+package person
 
-I'm **João Guilherme**, a passionate **Developer**. 
+type Person struct {
+	Name         string
+	Age          int
+	Pronouns     []string
+	Education    string
+	CurrentFocus string
+	Curiosities  []string
+	FunFact      string
+}
 
-**About me**
-- 💼 I work creating geospatials solutions to WCOGEO.
-- 💻 I'm interested in rust
-- ⭐ My favourite topics is backend development, software architecture and linux
-
-🚀 **Favourite tools**<br>
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,c,python,javascript,react,docker,linux,bash,postgresql,zed,neovim&perline=4)
-  
-<a href="https://github.com/JoaoGuilherme2909" title="Github stats de joao guilherme dos santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme2909&theme=dracula&show_icons=true" />
-</a>
+func NewPerson() *Person {
+	return &Person{
+		Name:         "João Guilherme dos Santos",
+		Age:          21,
+		Pronouns:     []string{"he", "she", "they"},
+		Education:    "In the 6th semester of software engineering",
+		CurrentFocus: "Learning CS and Golang",
+		Curiosities:  []string{"I'm fascinated by high performance and low latency systems and how they work", "I'm a Linux enthusiast", "I prefer to use TUIs and CLIs instead of GUIs", "I hate writing React for more than 1 hour"},
+		FunFact:      "Cats are my favourite animals",
+	}
+}
+```
